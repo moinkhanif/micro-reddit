@@ -5,4 +5,5 @@ class User < ApplicationRecord
   validates :email, presence: true, format: { with: VALID_EMAIL_REGEX, 
     message: 'Enter a valid e-mail address.'}
   has_many :posts
+  has_many :comments
 end
