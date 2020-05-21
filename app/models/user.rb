@@ -1,7 +1,6 @@
 class User < ApplicationRecord
-  private_constant :VALID_EMAIL_REGEX
   VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i.freeze
-  # public
+  private_constant :VALID_EMAIL_REGEX
   validates :name, presence: true
   validates :username, presence: true, length: { in: 3..10 }
   validates :email,
