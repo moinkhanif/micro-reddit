@@ -50,11 +50,11 @@ Some of the features of this project include:
   
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/alvaropazz/micro-reddit.svg?style=flat-square
-[contributors-url]: https://github.com/alvaropazz/micro-reddit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/alvaropazz/micro-reddit.svg?style=flat-square
-[forks-url]: https://github.com/alvaropazz/micro-reddit/network/members
-[stars-shield]: https://img.shields.io/github/stars/alvaropazz/micro-reddit.svg?style=flat-square
-[stars-url]: https://github.com/alvaropazz/micro-reddit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/alvaropazz/micro-reddit.svg?style=flat-square
-[issues-url]: https://github.com/alvaropazz/micro-reddit/issues
+[contributors-shield]: https://img.shields.io/github/contributors/moinkhanif/micro-reddit.svg?style=flat-square
+[contributors-url]: https://github.com/moinkhanif/micro-reddit/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/moinkhanif/micro-reddit.svg?style=flat-square
+[forks-url]: https://github.com/moinkhanif/micro-reddit/network/members
+[stars-shield]: https://img.shields.io/github/stars/moinkhanif/micro-reddit.svg?style=flat-square
+[stars-url]: https://github.com/moinkhanif/micro-reddit/stargazers
+[issues-shield]: https://img.shields.io/github/issues/moinkhanif/micro-reddit.svg?style=flat-square
+[issues-url]: https://github.com/moinkhanif/micro-reddit/issues
